@@ -1,0 +1,11 @@
+password.txt
+
+*.class
+
+#Comentarios con numeral
+
+log/*.log
+node_modules/
+
+librerias/
+!librerias/archivo_*.md
